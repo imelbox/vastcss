@@ -1,0 +1,10 @@
+{
+  "name": "vastcss",
+  "version": "0.1.0",
+  "description": "variable appended stylesheet for UI Development based to css variables",
+  "repository": "https://github.com/imelbox/vastcss.git",
+  "author": "Mohamed Tamsamani <tamsmoha@gmail.com>",
+  "license": "MIT",
+  "contributors": [],
+  "scripts": {}
+}
